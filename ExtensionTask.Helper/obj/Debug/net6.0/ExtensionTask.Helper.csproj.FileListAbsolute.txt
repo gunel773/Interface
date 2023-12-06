@@ -1,0 +1,11 @@
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\bin\Debug\net6.0\ExtensionTask.Helper.deps.json
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\bin\Debug\net6.0\ExtensionTask.Helper.dll
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\bin\Debug\net6.0\ExtensionTask.Helper.pdb
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\obj\Debug\net6.0\ExtensionTask.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\obj\Debug\net6.0\ExtensionTask.Helper.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\obj\Debug\net6.0\ExtensionTask.Helper.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\obj\Debug\net6.0\ExtensionTask.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\obj\Debug\net6.0\ExtensionTask.Helper.dll
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\obj\Debug\net6.0\refint\ExtensionTask.Helper.dll
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\obj\Debug\net6.0\ExtensionTask.Helper.pdb
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Helper\obj\Debug\net6.0\ref\ExtensionTask.Helper.dll

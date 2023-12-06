@@ -1,0 +1,15 @@
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\bin\Debug\net6.0\ExtensionTask.Domain.deps.json
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\bin\Debug\net6.0\ExtensionTask.Domain.dll
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\bin\Debug\net6.0\ExtensionTask.Domain.pdb
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\bin\Debug\net6.0\ExtensionTask.Helper.dll
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\bin\Debug\net6.0\ExtensionTask.Helper.pdb
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ExtensionTask.Domain.csproj.AssemblyReference.cache
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ExtensionTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ExtensionTask.Domain.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ExtensionTask.Domain.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ExtensionTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ExtensionTask.Domain.csproj.CopyComplete
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ExtensionTask.Domain.dll
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\refint\ExtensionTask.Domain.dll
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ExtensionTask.Domain.pdb
+C:\Users\Honor MagicBook\Downloads\ExtensionTask\ExtensionTask.Domain\obj\Debug\net6.0\ref\ExtensionTask.Domain.dll

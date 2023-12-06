@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ExtensionTask.Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ExtensionTask.Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExtensionTask.Helper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtensionTask.Helper/1.0.0": {
+      "type": "project",
+      "path": "../ExtensionTask.Helper/ExtensionTask.Helper.csproj",
+      "msbuildProject": "../ExtensionTask.Helper/ExtensionTask.Helper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ExtensionTask.Helper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Honor MagicBook\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\ExtensionTask\\ExtensionTask.Domain\\ExtensionTask.Domain.csproj",
+      "projectName": "ExtensionTask.Domain",
+      "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\ExtensionTask\\ExtensionTask.Domain\\ExtensionTask.Domain.csproj",
+      "packagesPath": "C:\\Users\\Honor MagicBook\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\ExtensionTask\\ExtensionTask.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Honor MagicBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Honor MagicBook\\Downloads\\ExtensionTask\\ExtensionTask.Helper\\ExtensionTask.Helper.csproj": {
+              "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\ExtensionTask\\ExtensionTask.Helper\\ExtensionTask.Helper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
